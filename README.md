@@ -1,5 +1,12 @@
 ### Rafael Prata 🖖🏽
 
+- 🔭 I'm currently working on projects that provides a Kubernetes platform to support my company and clients services, using mainly k3s, ansible, terraform and more tools.
+- 🌱 I'm currently learning about CloudFormation specific things like modules, and workflows, besides it learning about SLES and their main tools.
+- 📫 How to reach me:
+  - e-mail: rafaelpratasouza@gmail.com
+ 
+---
+
 <!--
 **rafaprata/rafaprata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +29,12 @@ Here are some ideas to get you started:
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+  <img align="center" alt="Rafa-Aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Rafa-GitLab" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Rafa-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg">
+  <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg">
+  <img align="center" alt="Rafa-Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
